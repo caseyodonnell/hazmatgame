@@ -1,71 +1,80 @@
-CARD_TYPE	CARD_CAT	CARD_AorF	@CARD_BG	CARD_PROMPT	@CARD_ART	@CARD_QR	OLD_CAT
-HAZARDOUS SITE	FLAMMABLE SITE		TBD.PSD	You are going to the grocery store...	Flammable-Icon-Wide.ai	Hazardous-Site.ai	FLAMMABLE
-HAZARDOUS SITE	FLAMMABLE SITE		TBD.PSD	You have lost your job...	Flammable-Icon-Wide.ai	Hazardous-Site.ai	FLAMMABLE
-HAZARDOUS SITE	FLAMMABLE SITE		TBD.PSD	You have developed a fever...	Flammable-Icon-Wide.ai	Hazardous-Site.ai	FLAMMABLE
-HAZARDOUS SITE	FLAMMABLE SITE		TBD.PSD	You have developed a cough...	Flammable-Icon-Wide.ai	Hazardous-Site.ai	FLAMMABLE
-HAZARDOUS SITE	EXPLOSIVE SITE		TBD.PSD	You have tested positive...	Explosive-Icon-Wide.ai	Hazardous-Site.ai	EXPLOSIVE
-HAZARDOUS SITE	EXPLOSIVE SITE		TBD.PSD		Explosive-Icon-Wide.ai	Hazardous-Site.ai	EXPLOSIVE
-HAZARDOUS SITE	EXPLOSIVE SITE		TBD.PSD		Explosive-Icon-Wide.ai	Hazardous-Site.ai	EXPLOSIVE
-HAZARDOUS SITE	EXPLOSIVE SITE		TBD.PSD		Explosive-Icon-Wide.ai	Hazardous-Site.ai	EXPLOSIVE
-HAZARDOUS SITE	CORROSIVE SITE		TBD.PSD		Corrosive-Icon-Wide.ai	Hazardous-Site.ai	CORROSIVE
-HAZARDOUS SITE	CORROSIVE SITE		TBD.PSD		Corrosive-Icon-Wide.ai	Hazardous-Site.ai	CORROSIVE
-HAZARDOUS SITE	CORROSIVE SITE		TBD.PSD		Corrosive-Icon-Wide.ai	Hazardous-Site.ai	CORROSIVE
-HAZARDOUS SITE	CORROSIVE SITE		TBD.PSD		Corrosive-Icon-Wide.ai	Hazardous-Site.ai	CORROSIVE
-HAZARDOUS SITE	TOXIC SITE		TBD.PSD		Toxic-Icon-Wide.ai	Hazardous-Site.ai	TOXIC
-HAZARDOUS SITE	TOXIC SITE		TBD.PSD		Toxic-Icon-Wide.ai	Hazardous-Site.ai	TOXIC
-HAZARDOUS SITE	TOXIC SITE		TBD.PSD		Toxic-Icon-Wide.ai	Hazardous-Site.ai	TOXIC
-HAZMAT SUIT	HAZMAT SUIT	A	TBD.PSD	How could you help your neighbors? 	Flammable-Suit-Icon.ai	Hazmat-Suit-Required.ai	FLAMMABLE
-HAZMAT SUIT	HAZMAT SUIT	A	TBD.PSD	How could you support someone who has lost their job? 	Flammable-Suit-Icon.ai	Hazmat-Suit-Required.ai	FLAMMABLE
-HAZMAT SUIT	HAZMAT SUIT	F	TBD.PSD	How could you protect others? 	Flammable-Suit-Icon.ai	Hazmat-Suit-Required.ai	FLAMMABLE
-HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD	How could you socialize safely right now? 	Flammable-Suit-Icon.ai	Hazmat-Suit-Required.ai	FLAMMABLE
-HAZMAT SUIT	HAZMAT SUIT	A	TBD.PSD	How could you date safely right now? 	Explosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	EXPLOSIVE
-HAZMAT SUIT	HAZMAT SUIT	A	TBD.PSD		Explosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	EXPLOSIVE
-HAZMAT SUIT	HAZMAT SUIT	A	TBD.PSD		Explosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	EXPLOSIVE
-HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD		Corrosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	CORROSIVE
-HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD		Corrosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	CORROSIVE
-HAZMAT SUIT	HAZMAT SUIT	F	TBD.PSD		Corrosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	CORROSIVE
-HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD		Corrosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	CORROSIVE
-HAZMAT SUIT	HAZMAT SUIT	A	TBD.PSD		Toxic-Suit-Icon.ai	Hazmat-Suit-Required.ai	TOXIC
-HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD		Toxic-Suit-Icon.ai	Hazmat-Suit-Required.ai	TOXIC
-HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD		Toxic-Suit-Icon.ai	Hazmat-Suit-Required.ai	TOXIC
-HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD		Toxic-Suit-Icon.ai	Hazmat-Suit-Required.ai	TOXIC
-HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	A/F	TBD.PSD	How have you been physically distancing yourself? 	Flammable-Icon-Wide.ai	Hazardous-Material.ai	FLAMMABLE
-HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	A	TBD.PSD	How have you overestimated your health resilience? 	Flammable-Icon-Wide.ai	Hazardous-Material.ai	FLAMMABLE
-HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	A	TBD.PSD	When did you take a risk you knew you should not have? 	Flammable-Icon-Wide.ai	Hazardous-Material.ai	FLAMMABLE
-HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	A	TBD.PSD	How have you talked to your family about the risks and precautions? 	Flammable-Icon-Wide.ai	Hazardous-Material.ai	FLAMMABLE
-HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	F	TBD.PSD	How have you shared misinformation (knowingly or otherwise)? 	Flammable-Icon-Wide.ai	Hazardous-Material.ai	FLAMMABLE
-HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	F	TBD.PSD		Flammable-Icon-Wide.ai	Hazardous-Material.ai	FLAMMABLE
-HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	F	TBD.PSD		Flammable-Icon-Wide.ai	Hazardous-Material.ai	FLAMMABLE
-HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	F	TBD.PSD		Flammable-Icon-Wide.ai	Hazardous-Material.ai	FLAMMABLE
-HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	F	TBD.PSD		Flammable-Icon-Wide.ai	Hazardous-Material.ai	FLAMMABLE
-HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	F	TBD.PSD		Flammable-Icon-Wide.ai	Hazardous-Material.ai	FLAMMABLE
-HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	A	TBD.PSD		Explosive-Icon-Wide.ai	Hazardous-Material.ai	EXPLOSIVE
-HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	A	TBD.PSD		Explosive-Icon-Wide.ai	Hazardous-Material.ai	EXPLOSIVE
-HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	A	TBD.PSD		Explosive-Icon-Wide.ai	Hazardous-Material.ai	EXPLOSIVE
-HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	A	TBD.PSD		Explosive-Icon-Wide.ai	Hazardous-Material.ai	EXPLOSIVE
-HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	A	TBD.PSD		Explosive-Icon-Wide.ai	Hazardous-Material.ai	EXPLOSIVE
-HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	A	TBD.PSD		Explosive-Icon-Wide.ai	Hazardous-Material.ai	EXPLOSIVE
-HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	F	TBD.PSD		Explosive-Icon-Wide.ai	Hazardous-Material.ai	EXPLOSIVE
-HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	F	TBD.PSD		Explosive-Icon-Wide.ai	Hazardous-Material.ai	EXPLOSIVE
-HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	F	TBD.PSD		Explosive-Icon-Wide.ai	Hazardous-Material.ai	EXPLOSIVE
-HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	F	TBD.PSD		Explosive-Icon-Wide.ai	Hazardous-Material.ai	EXPLOSIVE
-HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A/F	TBD.PSD		Corrosive-Icon-Wide.ai	Hazardous-Material.ai	CORROSIVE
-HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A/F	TBD.PSD		Corrosive-Icon-Wide.ai	Hazardous-Material.ai	CORROSIVE
-HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A/F	TBD.PSD		Corrosive-Icon-Wide.ai	Hazardous-Material.ai	CORROSIVE
-HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A	TBD.PSD		Corrosive-Icon-Wide.ai	Hazardous-Material.ai	CORROSIVE
-HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A	TBD.PSD		Corrosive-Icon-Wide.ai	Hazardous-Material.ai	CORROSIVE
-HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A	TBD.PSD		Corrosive-Icon-Wide.ai	Hazardous-Material.ai	CORROSIVE
-HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A	TBD.PSD		Corrosive-Icon-Wide.ai	Hazardous-Material.ai	CORROSIVE
-HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A	TBD.PSD		Corrosive-Icon-Wide.ai	Hazardous-Material.ai	CORROSIVE
-HAZARDOUS MATERIALS	CORROSIVE MATERIAL	F	TBD.PSD		Corrosive-Icon-Wide.ai	Hazardous-Material.ai	CORROSIVE
-HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A/F	TBD.PSD		Corrosive-Icon-Wide.ai	Hazardous-Material.ai	CORROSIVE
-HAZARDOUS MATERIALS	TOXIC MATERIAL	F	TBD.PSD		Toxic-Icon-Wide.ai	Hazardous-Material.ai	TOXIC
-HAZARDOUS MATERIALS	TOXIC MATERIAL	A	TBD.PSD		Toxic-Icon-Wide.ai	Hazardous-Material.ai	TOXIC
-HAZARDOUS MATERIALS	TOXIC MATERIAL	A	TBD.PSD		Toxic-Icon-Wide.ai	Hazardous-Material.ai	TOXIC
-HAZARDOUS MATERIALS	TOXIC MATERIAL	A	TBD.PSD		Toxic-Icon-Wide.ai	Hazardous-Material.ai	TOXIC
-HAZARDOUS MATERIALS	TOXIC MATERIAL	A	TBD.PSD		Toxic-Icon-Wide.ai	Hazardous-Material.ai	TOXIC
-HAZARDOUS MATERIALS	TOXIC MATERIAL	A	TBD.PSD		Toxic-Icon-Wide.ai	Hazardous-Material.ai	TOXIC
-HAZARDOUS MATERIALS	TOXIC MATERIAL	A	TBD.PSD		Toxic-Icon-Wide.ai	Hazardous-Material.ai	TOXIC
-HAZARDOUS MATERIALS	TOXIC MATERIAL	F	TBD.PSD		Toxic-Icon-Wide.ai	Hazardous-Material.ai	TOXIC
-HAZARDOUS MATERIALS	TOXIC MATERIAL	F	TBD.PSD		Toxic-Icon-Wide.ai	Hazardous-Material.ai	TOXIC
-HAZARDOUS MATERIALS	TOXIC MATERIAL	F	TBD.PSD		Toxic-Icon-Wide.ai	Hazardous-Material.ai	TOXIC
+CARD_TYPE	CARD_CAT	CARD_AorF	@CARD_BG	CARD_PROMPT	@CARD_ART	@CARD_QR	
+HAZARDOUS SITE	FLAMMABLE SITE		TBD.PSD	You are going out to get supplies...	Flammable-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	FLAMMABLE SITE		TBD.PSD	School has been cancelled…	Flammable-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	FLAMMABLE SITE		TBD.PSD	Your bills are due...	Flammable-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	FLAMMABLE SITE		TBD.PSD	Someone you know is unable to pay their bills...	Flammable-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	FLAMMABLE SITE		TBD.PSD	You are out of a basic supply and cannot find any more...	Flammable-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	EXPLOSIVE SITE		TBD.PSD	You have lost your job...	Explosive-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	EXPLOSIVE SITE		TBD.PSD	You cannot pay your bills...	Explosive-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	EXPLOSIVE SITE		TBD.PSD	Your workplace is not taking adequate safety measures...	Explosive-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	EXPLOSIVE SITE		TBD.PSD	You have been invited to an in-person social gathering...	Explosive-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	CORROSIVE SITE		TBD.PSD	You are worried about the economy...	Corrosive-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	CORROSIVE SITE		TBD.PSD	You are having trouble focusing on work...	Corrosive-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	CORROSIVE SITE		TBD.PSD	Someone has shared an article filled with misinformation...	Corrosive-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	CORROSIVE SITE		TBD.PSD	You are wishing things could just go back to normal...	Corrosive-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	TOXIC SITE		TBD.PSD	You have developed symptoms...	Toxic-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	TOXIC SITE		TBD.PSD	You are self-quarantining...	Toxic-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	TOXIC SITE		TBD.PSD	You are blaming the pandemic on a group of people...	Toxic-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	TOXIC SITE		TBD.PSD	Someone you know has died from the pandemic...	Toxic-Icon-Wide.ai	Hazardous-Site.ai	
+HAZARDOUS SITE	TOXIC SITE		TBD.PSD	Someone you know is saying we should open the economy back up...	Toxic-Icon-Wide.ai	Hazardous-Site.ai	
+HAZMAT SUIT	HAZMAT SUIT	A	TBD.PSD	How could you safely help others? 	Flammable-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A	TBD.PSD	How could you support someone who has lost their job? 	Flammable-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	F	TBD.PSD	How could you ask for help?	Flammable-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD	How could you minimize risk to yourself and others?	Flammable-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD	How could you better care for those that are most at risk?	Flammable-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD	How could you help a child during this time?	Flammable-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A	TBD.PSD	How could you make a new connection safely right now? 	Explosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A	TBD.PSD	How could you help yourself and those close to you feel safe?	Explosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A	TBD.PSD	How could you socialize safely right now? 	Explosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A	TBD.PSD	How could you use/help your local aid resources?	Explosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A	TBD.PSD	How could you communicate with neighbors and help each other?	Explosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD	How could you talk to your family about risks and precautions? 	Corrosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD	How could you be kind to yourself during this time?	Corrosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A	TBD.PSD	How could you better educate yourself and others?	Corrosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD	How could you be more flexible during this time?	Corrosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD	How could you let go of expectations of what is normal?	Corrosive-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A	TBD.PSD	How could you help organize others?	Toxic-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD	How could you connect with someone you are physically distant from?	Toxic-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD	How could you prepare for the worst?	Toxic-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A/F	TBD.PSD	How could you imagine a possible future and put it in motion post-pandemic?	Toxic-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZMAT SUIT	HAZMAT SUIT	A	TBD.PSD	Who could care for your dependents/home if you had to go to the hospital?	Toxic-Suit-Icon.ai	Hazmat-Suit-Required.ai	
+HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	A/F	TBD.PSD	How have you overestimated your health resilience? 	Flammable-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	A	TBD.PSD	How has your work been affected by the pandemic?	Flammable-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	A	TBD.PSD	When did you buy more than a two-weeks supply of something?	Flammable-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	A	TBD.PSD	When have you felt angry about someone else's behavior?	Flammable-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	F	TBD.PSD	When have you not properly physically distanced or taken precautions?	Flammable-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	F	TBD.PSD	When have you felt like people were overreacting?	Flammable-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	F	TBD.PSD	How has your government helped those affected by the pandemic?	Flammable-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	F	TBD.PSD	When have you felt that aid was being distributed unfairly?	Flammable-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	F	TBD.PSD	What makes you feel anxious?	Flammable-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	FLAMMABLE MATERIAL	F	TBD.PSD	When have you felt like money mattered more than people's lives?	Flammable-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	A	TBD.PSD	When did you take a risk you knew you should not have? 	Explosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	A	TBD.PSD	How have you thought you might profit from the pandemic?	Explosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	A	TBD.PSD	When have you taken the last of an item off the shelf?	Explosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	A	TBD.PSD	How have you felt at-risk in your work situation?	Explosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	A	TBD.PSD	When have you felt like other people were not taking this seriously?	Explosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	A	TBD.PSD	When have you felt afraid that you could not afford basic necessities?	Explosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	F	TBD.PSD	How have you struggled with stress during the pandemic?	Explosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	F	TBD.PSD	What have you felt angry about during the pandemic?	Explosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	F	TBD.PSD	When have you blamed someone for something out of their control?	Explosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	EXPLOSIVE MATERIAL	F	TBD.PSD	How have you felt like this pandemic would not affect you?	Explosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A/F	TBD.PSD	How have you shared misinformation (knowingly or otherwise)? 	Corrosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A/F	TBD.PSD	When have you felt that the pandemic was being exaggerated?	Corrosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A/F	TBD.PSD	How have you placed unreasonable demands on yourself and/or others?	Corrosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A	TBD.PSD	How have you underestimated the pandemic?	Corrosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A	TBD.PSD	How have you felt unsure about the future?	Corrosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A	TBD.PSD	What have you been using as a means of avoiding the reality of pandemic?	Corrosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A	TBD.PSD	How have you felt helpless during the pandemic?	Corrosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A	TBD.PSD	What wakes you up in the middle of the night?	Corrosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	CORROSIVE MATERIAL	F	TBD.PSD	How did the pandemic become real for you?	Corrosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	CORROSIVE MATERIAL	A/F	TBD.PSD	How did the pandemic force you to change your plans?	Corrosive-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	TOXIC MATERIAL	F	TBD.PSD	How have you been physically distancing yourself? 	Toxic-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	TOXIC MATERIAL	A	TBD.PSD	How have you talked to loved ones about contingency plans?	Toxic-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	TOXIC MATERIAL	A	TBD.PSD	How have you grieved for your losses during the pandemic?	Toxic-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	TOXIC MATERIAL	A	TBD.PSD	When have you wanted to blame others for the changes occurring?	Toxic-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	TOXIC MATERIAL	A	TBD.PSD	When have you entertained an unpopular position?	Toxic-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	TOXIC MATERIAL	A	TBD.PSD	How have you been avoiding talking about difficult topics?	Toxic-Icon-Wide.ai	Hazardous-Material.ai	Corrosive???
+HAZARDOUS MATERIALS	TOXIC MATERIAL	A	TBD.PSD	How have you struggled with feelings of loneliness?	Toxic-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	TOXIC MATERIAL	F	TBD.PSD	What has the pandemic revealed about our society?	Toxic-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	TOXIC MATERIAL	F	TBD.PSD	"When have you thought, ""These people were going to die anyway..."""	Toxic-Icon-Wide.ai	Hazardous-Material.ai	
+HAZARDOUS MATERIALS	TOXIC MATERIAL	F	TBD.PSD	"When have you thought, ""Maybe we should all just get it..."""	Toxic-Icon-Wide.ai	Hazardous-Material.ai	
